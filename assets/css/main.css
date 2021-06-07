@@ -3248,8 +3248,8 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #312450;
-			background-image: url("images/3x2.25in_StarryBackgroundTile.png");
+			background-color: #290043;
+			background-image: url("images/stars30.png");
 		}
 
 		.wrapper.style2-alt {
@@ -3505,7 +3505,7 @@ input, select, textarea {
 		}
 
 	#footer > .inner a {
-		border-bottom-color: rgba(168, 163, 255, 0.15);
+		border-bottom-color: rgba(163, 255, 209, 0.15);
 	}
 
 		#footer > .inner a:hover {
@@ -3514,7 +3514,7 @@ input, select, textarea {
 
 	#footer > .inner .menu {
 		font-size: 0.8em;
-		color: rgba(168, 163, 255, 0.15);
+		color: rgba(168, 163, 255, 0.90);
 	}
 
 	#header + #wrapper + #footer > .inner {
