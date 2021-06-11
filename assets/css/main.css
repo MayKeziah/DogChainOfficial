@@ -3374,7 +3374,7 @@ input, select, textarea {
 		background-color: #312450; /* sub page header */
 		cursor: default;
 		padding: 1.75em 2em;
-		max-height: 110px;
+		/* max-height: 110px; */
 	}
 
 		#header > .title {
